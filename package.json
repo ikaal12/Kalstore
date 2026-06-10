@@ -1,0 +1,15 @@
+{
+  "name": "kalstore-bot",
+  "version": "3.0.0",
+  "description": "Bot WhatsApp Top Up Game - Kalstore",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "@hapi/boom": "^10.0.1",
+    "pino": "^8.21.0",
+    "qrcode-terminal": "0.12.0"
+  }
+}
